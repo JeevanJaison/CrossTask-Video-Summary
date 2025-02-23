@@ -1,0 +1,5 @@
+*.pt
+*.pth
+Models
+*.mp4
+*.npy
